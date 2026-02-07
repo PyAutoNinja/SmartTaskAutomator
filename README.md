@@ -57,7 +57,6 @@ log.txt          → Log File
 ## 👤 Author
 
 Laxmi Narayan Pandey  
-(Project created with guidance)
 
 ---
 
